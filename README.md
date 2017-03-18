@@ -12,3 +12,6 @@ Usage: adaline [ p<theta> | a<alpha> ] <train> <in1> <in2> ...
 
 ```
 
+A screenshot of the program in action:
+![Adaline and Perceptron Leraning](adaline.png)
+
